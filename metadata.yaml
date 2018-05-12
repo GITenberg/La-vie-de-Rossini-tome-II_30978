@@ -1,0 +1,32 @@
+_repo: La-vie-de-Rossini-tome-II_30978
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stendhal
+    aliases:
+    - Beyle, Marie Henri
+    - Marie-Henri Beyle
+    birthdate: 1783
+    deathdate: 1842
+    gutenberg_agent_id: '418'
+    url: http://www.gutenberg.org/2009/agents/418
+    wikipedia: http://en.wikipedia.org/wiki/Stendhal
+description: ''
+gutenberg_bookshelf: FR Musique
+gutenberg_issued: '2010-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30978'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Composers -- Italy -- Biography'
+- !lcsh 'Rossini, Gioacchino, 1792-1868'
+title: La vie de Rossini, tome II
+url: http://www.gutenberg.org/ebooks/30978
